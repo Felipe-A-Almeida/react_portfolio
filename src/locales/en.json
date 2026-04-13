@@ -1,0 +1,142 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "education": "Education",
+    "contact": "Contact",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language",
+    "langPt": "Portuguese (Brazil)",
+    "langEn": "English"
+  },
+  "hero": {
+    "eyebrow": "Web & AI developer",
+    "intro": "Full stack web systems since 2018. Today I focus on AI agents with LangChain and LangGraph to automate workflows and integrate data end to end.",
+    "cta": "Get in touch",
+    "linkedinAria": "LinkedIn",
+    "emailAria": "Email",
+    "photoAlt": "Felipe Almeida",
+    "scrollToAbout": "Go to About section"
+  },
+  "about": {
+    "titlePrefix": "About",
+    "titleHighlight": "me",
+    "body": "Developer since 2018: I have helped manage and build several websites and web applications. I focus on sustainable code, integrations, and user experience. In recent years I have been diving into AI agents to automate processes and connect systems securely.",
+    "highlights": [
+      { "label": "Full stack", "desc": "Vue.js, React, Rails, Python" },
+      { "label": "AI agents", "desc": "LangChain, LangGraph" },
+      { "label": "Data", "desc": "PostgreSQL, MongoDB" }
+    ]
+  },
+  "skills": {
+    "titlePrefix": "Technical",
+    "titleHighlight": "skills",
+    "categories": [
+      {
+        "title": "Front-end",
+        "items": ["JavaScript", "Vue.js", "Nuxt", "React", "HTML5", "CSS3", "Vuetify"]
+      },
+      {
+        "title": "Back-end",
+        "items": ["Ruby on Rails", "Python", "Node.js", "PHP"]
+      },
+      {
+        "title": "AI / ML",
+        "items": ["LangChain", "LangGraph", "AI agents"]
+      },
+      {
+        "title": "Data",
+        "items": ["PostgreSQL", "MySQL", "MongoDB"]
+      },
+      {
+        "title": "Cloud & tools",
+        "items": ["Google Cloud", "Docker", "Git", "CI/CD", "Figma"]
+      },
+      {
+        "title": "Methodologies",
+        "items": ["Scrum/agile", "REST APIs"]
+      }
+    ]
+  },
+  "experience": {
+    "titlePrefix": "Professional",
+    "titleHighlight": "experience",
+    "jobs": [
+      {
+        "title": "Senior associate developer",
+        "company": "Talenses Group",
+        "period": "Apr 2026 – present",
+        "points": [
+          "Web and desktop apps with Vue.js, Nuxt, Ruby on Rails, and Python",
+          "AI agent architecture with LangChain and LangGraph",
+          "Data management, Google Cloud services, and agile ceremony facilitation"
+        ]
+      },
+      {
+        "title": "Mid-level software developer",
+        "company": "Talenses Group",
+        "period": "2024 – 2026",
+        "points": [
+          "Full stack development with Vue.js, Nuxt, Rails, and Python",
+          "SQL database management and system integrations"
+        ]
+      },
+      {
+        "title": "Junior software developer",
+        "company": "Talenses Group",
+        "period": "2022 – 2024",
+        "points": [
+          "Web systems with Vue.js, Rails, Nuxt, and Vuetify",
+          "SQL/NoSQL databases and support for Python backends"
+        ]
+      },
+      {
+        "title": "Junior developer & intern",
+        "company": "Yeb Marketing & Sourcing",
+        "period": "2018 – 2022",
+        "points": ["Web systems with PHP, WordPress, Node.js, Vue.js, and Nuxt"]
+      }
+    ]
+  },
+  "education": {
+    "titlePrefix": "Education &",
+    "titleHighlight": "languages",
+    "degrees": [
+      {
+        "degree": "Postgraduate in Software Engineering",
+        "school": "Universidade Claretiano",
+        "period": "2025 – 2026"
+      },
+      {
+        "degree": "Bachelor’s in Information Systems",
+        "school": "FHO | UNIARARAS",
+        "period": "2017 – 2020"
+      }
+    ],
+    "languages": [
+      { "lang": "Portuguese", "level": "Native" },
+      { "lang": "English", "level": "Intermediate (B1)" }
+    ]
+  },
+  "contact": {
+    "titlePrefix": "Let’s",
+    "titleHighlight": "talk",
+    "subtitle": "Open to opportunities and projects where I can contribute with web development and AI.",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "linkedin": "LinkedIn",
+    "locationValue": "Rio Claro, SP — Brazil",
+    "linkedinValue": "Felipe Almeida"
+  },
+  "footer": {
+    "credit": "© {{year}} Felipe Almeida. Built with React and Tailwind CSS."
+  },
+  "notFound": {
+    "title": "404",
+    "message": "Page not found",
+    "back": "Back to home"
+  }
+}
