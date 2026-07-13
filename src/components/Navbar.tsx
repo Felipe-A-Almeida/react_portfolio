@@ -6,6 +6,7 @@ import { cn } from "@/lib/utils";
 const navHrefs = [
   { href: "#about", labelKey: "nav.about" as const },
   { href: "#skills", labelKey: "nav.skills" as const },
+  { href: "#projects", labelKey: "nav.projects" as const },
   { href: "#experience", labelKey: "nav.experience" as const },
   { href: "#education", labelKey: "nav.education" as const },
   { href: "#contact", labelKey: "nav.contact" as const },
