@@ -5,6 +5,7 @@ import Footer from "@/components/Footer";
 
 const AboutSection = lazy(() => import("@/components/AboutSection"));
 const SkillsSection = lazy(() => import("@/components/SkillsSection"));
+const ProjectsSection = lazy(() => import("@/components/ProjectsSection"));
 const ExperienceSection = lazy(() => import("@/components/ExperienceSection"));
 const EducationSection = lazy(() => import("@/components/EducationSection"));
 const ContactSection = lazy(() => import("@/components/ContactSection"));
@@ -16,6 +17,7 @@ const Index = () => (
     <Suspense fallback={null}>
       <AboutSection />
       <SkillsSection />
+      <ProjectsSection />
       <ExperienceSection />
       <EducationSection />
       <ContactSection />
