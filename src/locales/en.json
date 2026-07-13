@@ -2,6 +2,7 @@
   "nav": {
     "about": "About",
     "skills": "Skills",
+    "projects": "Projects",
     "experience": "Experience",
     "education": "Education",
     "contact": "Contact",
@@ -57,6 +58,25 @@
       {
         "title": "Methodologies",
         "items": ["Scrum/agile", "REST APIs"]
+      }
+    ]
+  },
+  "projects": {
+    "titlePrefix": "Recent",
+    "titleHighlight": "projects",
+    "viewSite": "Visit site",
+    "items": [
+      {
+        "title": "AudioChord",
+        "description": "Web app that analyzes audio files, automatically detects chords, and shows real-time piano and guitar diagrams, with MIDI export."
+      },
+      {
+        "title": "Mimika",
+        "description": "Charades-style word-guessing party game with teams, a timer, and a live scoreboard."
+      },
+      {
+        "title": "HR Serviços Prediais",
+        "description": "Institutional website for a building maintenance, renovation, and construction company, focused on generating business contacts."
       }
     ]
   },

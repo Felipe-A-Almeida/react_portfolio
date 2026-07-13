@@ -2,6 +2,7 @@
   "nav": {
     "about": "Sobre",
     "skills": "Habilidades",
+    "projects": "Projetos",
     "experience": "Experiência",
     "education": "Formação",
     "contact": "Contato",
@@ -57,6 +58,25 @@
       {
         "title": "Metodologias",
         "items": ["Scrum/ágil", "APIs REST"]
+      }
+    ]
+  },
+  "projects": {
+    "titlePrefix": "Projetos",
+    "titleHighlight": "recentes",
+    "viewSite": "Visitar site",
+    "items": [
+      {
+        "title": "AudioChord",
+        "description": "Aplicação web que analisa arquivos de áudio, identifica os acordes automaticamente e exibe diagramas de piano e violão em tempo real, com exportação para MIDI."
+      },
+      {
+        "title": "Mimika",
+        "description": "Jogo de mímica e adivinhação de palavras para jogar em grupo, com times, cronômetro e placar em tempo real."
+      },
+      {
+        "title": "HR Serviços Prediais",
+        "description": "Site institucional para empresa de manutenção, reformas e construção predial, com foco em geração de contato comercial."
       }
     ]
   },
